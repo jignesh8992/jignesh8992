@@ -1,6 +1,17 @@
 ### Hi there 👋
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jignesh8992&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+<a  href="https://github.com/jignesh8992/Utilities">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jignesh8992&repo=Utilities" />
+</a>
+<a href="https://github.com/jignesh8992/Android-11-Permissiond-And-Download-Manager">
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jignesh8992&repo=Android-11-Permissiond-And-Download-Manager" />
+</a>
+
 
 
 <!--
