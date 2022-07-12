@@ -17,7 +17,7 @@ I have the passion and curiosity required to learn New Things In Android Technol
 
   
 
-### ***Talking about Personal Stuffs:***
+### ***Talking about my Personal Stuffs:***
 
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/developer.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently working on something cool
 - <img src="https://github.com/Gapur/Gapur/blob/main/assets/lightning.gif?raw=true" width="21" />&nbsp;&nbsp; I’m currently learning MVVM and Clean Archtecture
