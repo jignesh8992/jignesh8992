@@ -1,4 +1,7 @@
-###  Hi there, I'm Jignesh Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+
+
+
+###  Hi there, I'm Jignesh Patel  <img src="https://komarev.com/ghpvc/?username=jignesh8992" alt="jignesh8992"/> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
   <a href="https://www.linkedin.com/in/jignesh8992/" rel="nofollow">
   <img alt="Follow me on LinkedIn" 
@@ -22,7 +25,6 @@
   </a>
 
 
-### ***Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jignesh8992)***
 
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="300" />
