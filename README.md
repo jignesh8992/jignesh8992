@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jignesh8992&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
 <!--
 **jignesh8992/jignesh8992** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
