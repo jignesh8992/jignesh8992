@@ -1,8 +1,25 @@
 ###  Hi there, I'm Jignesh Patel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jignesh8992)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/jignesh8992)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/jignesh8992)
+  <a href="https://www.linkedin.com/in/jignesh8992/" rel="nofollow">
+  <img alt="Follow me on LinkedIn" 
+       height="30" width="30" 
+       src="https://github.com/jignesh8992/Battery-Information/blob/master/social/linkedin.png" 
+       style="max-width:100%;">
+  </a>
+  &nbsp
+  <a href="https://twitter.com/jignesh8992" rel="nofollow">
+  <img alt="Follow me on Facebook" 
+       height="30" width="30"
+       src="https://github.com/jignesh8992/Battery-Information/blob/master/social/twitter.png" 
+       style="max-width:100%;">
+  </a>
+  &nbsp
+  <a href="https://www.facebook.com/jignesh8992" rel="nofollow">
+  <img alt="Follow me on Facebook" 
+       height="30" width="30" 
+       src="https://github.com/jignesh8992/Battery-Information/blob/master/social/facebook.png" 
+       style="max-width:100%;">
+  </a>
 
 
 ### ***Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=jignesh8992)***
