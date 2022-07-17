@@ -29,7 +29,7 @@
 
 <img align="right" alt="GIF" src="https://github.com/Gapur/Gapur/blob/main/assets/coding.gif?raw=true" width="400" height="300" />
 
-I am a senior android developer and writer. I love programming and traveling.
+I am a senior android developer. I love programming and traveling.
 
 I have the passion and curiosity required to learn New Things In Android Technology, Habitually writes articles about Android Development For Android community
 
