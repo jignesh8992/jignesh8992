@@ -31,7 +31,7 @@
 
 I am a senior android developer. I love programming and traveling.
 
-I have the passion and curiosity required to learn New Things In Android Technology, Habitually writes articles about Android Development For Android community
+I have the passion and curiosity required to learn New Things In Android Technology, Habitually coding about Android Development For Android community
 
 
   
